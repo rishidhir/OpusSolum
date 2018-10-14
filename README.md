@@ -1,2 +1,2 @@
 # OpusSolum
-A decentralized patreon alternative
+Opus Solum is a dectranlized version of Patreon using the Ethereum Block Chain Platform.
